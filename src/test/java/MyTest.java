@@ -10,8 +10,10 @@ public class MyTest {
         assertTrue(true);
     }
 
+    /*
     @Test
     public void noMethod_alwaysFail_success() {
         fail("Deliberately fail.");
     }
+    */
 }
